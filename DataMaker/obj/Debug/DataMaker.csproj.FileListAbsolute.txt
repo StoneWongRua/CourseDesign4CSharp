@@ -1,0 +1,7 @@
+C:\Users\15845\source\repos\DataMaker\DataMaker\bin\Debug\DataMaker.exe.config
+C:\Users\15845\source\repos\DataMaker\DataMaker\bin\Debug\DataMaker.exe
+C:\Users\15845\source\repos\DataMaker\DataMaker\bin\Debug\DataMaker.pdb
+C:\Users\15845\source\repos\DataMaker\DataMaker\obj\Debug\DataMaker.csprojAssemblyReference.cache
+C:\Users\15845\source\repos\DataMaker\DataMaker\obj\Debug\DataMaker.csproj.CoreCompileInputs.cache
+C:\Users\15845\source\repos\DataMaker\DataMaker\obj\Debug\DataMaker.exe
+C:\Users\15845\source\repos\DataMaker\DataMaker\obj\Debug\DataMaker.pdb
